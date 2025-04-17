@@ -1,0 +1,10 @@
+@import "tailwindcss";
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+.leaflet-container {
+    background: #131314;
+}
+body{
+    background-color: #000000;
+}
